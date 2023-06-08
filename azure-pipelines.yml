@@ -17,6 +17,6 @@ steps:
 
 - script: 
     npm cache clean --force
-    # npm install
+    npm install
     # npm run build
   displayName: 'npm install and build'
